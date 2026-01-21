@@ -1,7 +1,7 @@
 package ca.yorku.eecs3311.othello.model;
 /**
  * 
- * @author student
+ * @author Helena
  *
  */
 public class Move {
