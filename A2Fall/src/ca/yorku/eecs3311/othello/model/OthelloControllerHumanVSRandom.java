@@ -4,7 +4,7 @@ package ca.yorku.eecs3311.othello.model;
  * This controller uses the Model classes to allow the Human player P1 to play
  * the computer P2. The computer, P2 uses a random strategy. 
  * 
- * @author student
+ * @author Helena
  *
  */
 public class OthelloControllerHumanVSRandom extends OthelloControllerVerbose {
