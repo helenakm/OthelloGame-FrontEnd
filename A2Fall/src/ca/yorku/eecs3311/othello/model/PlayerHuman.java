@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * TODO: Document this class and make minimal changes as necessary.
  * 
- * @author arnold
+ * @author Helena
  *
  */
 public class PlayerHuman extends Player {
