@@ -11,7 +11,7 @@ package ca.yorku.eecs3311.othello.model;
  * about which your experimental results support. Place your short report in
  * randomVsRandomReport.txt.
  * 
- * @author student
+ * @author Helena
  *
  */
 public class OthelloControllerRandomVSRandom extends OthelloController {
