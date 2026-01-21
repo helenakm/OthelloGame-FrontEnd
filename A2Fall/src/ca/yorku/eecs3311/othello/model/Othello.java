@@ -16,7 +16,7 @@ import java.io.*;
  * See the following for a short, simple introduction.
  * https://www.youtube.com/watch?v=Ol3Id7xYsY4
  * 
- * @author student
+ * @author Helena
  *
  */
 public class Othello implements Serializable{
