@@ -12,7 +12,7 @@ import java.io.Serializable;
  * 
  * Othello makes use of the OthelloBoard.
  * 
- * @author student
+ * @author Helena
  *
  */
 
