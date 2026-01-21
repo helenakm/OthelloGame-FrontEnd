@@ -16,7 +16,7 @@ package ca.yorku.eecs3311.othello.model;
  * 
  * See the examples supplied in the assignment handout.
  * 
- * @author student
+ * @author Helena
  *
  */
 public class PlayerGreedy extends Player {
