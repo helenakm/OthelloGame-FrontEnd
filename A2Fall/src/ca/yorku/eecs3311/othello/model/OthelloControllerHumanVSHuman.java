@@ -4,7 +4,7 @@ package ca.yorku.eecs3311.othello.model;
  * Run the main from this class to play two humans against eachother. Only
  * minimal modifications to this class are permitted.
  * 
- * @author student
+ * @author Helena
  *
  */
 public class OthelloControllerHumanVSHuman extends OthelloControllerVerbose {
